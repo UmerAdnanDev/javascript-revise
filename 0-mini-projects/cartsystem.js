@@ -1,0 +1,1 @@
+let cartqty = 0;
