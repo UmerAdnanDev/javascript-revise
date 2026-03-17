@@ -26,3 +26,6 @@ console.log(`Amount 180$ and discount 22% , final amount: ${discountedAmount(180
 // for each helps in looping through an array
 array = ["a","b","c"].forEach(function(value,index = 1){console.log(index+=1,". ",value);
 });
+array = [1,2,3,4,5].forEach(function(value){console.log("* ",value);
+});
+
