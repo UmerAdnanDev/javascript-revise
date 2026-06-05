@@ -14,6 +14,8 @@ web development concepts of JavaScript with examples and mini-projects.
 6. Functions (declarations, expressions, arrow functions)
 7. Objects
 8. DOM Manipulation
+9. Exception Handling
+10. File Handling 
 
 ### Projects
 - Mini Projects (practical applications of learned concepts)
