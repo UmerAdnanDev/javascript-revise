@@ -15,6 +15,7 @@ const activeUsers = users.filter(user => user.active === true);
 console.log(activeUsers); // Alice, Charlie, Diana only
 
 // find() - get first match
+const user = users.find(user => user.id === 3);
 console.log(user); // { id: 3, name: 'Charlie', age: 35, active: true }
 
 // forEach() - loop through array
